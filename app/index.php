@@ -32,7 +32,6 @@
             <label for="number">Numero:</label>
             <input type="text" name="number" pattern="[789][0-9]{9}" placeholder="+39 ">
             <br>
-            
             <label for="name">Azienda:</label>
             <input type="text" name="company" placeholder="Nome azienda">
             <br>
