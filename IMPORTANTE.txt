@@ -1,0 +1,4 @@
+Per rendere il lavoro piu' facilmente analizabile lo ho
+pushato in una repository pubblica su github, consiglio la visione da li'
+
+Rubrica: https://github.com/ShallKnowMikan/test
